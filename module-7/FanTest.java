@@ -10,4 +10,3 @@ public class FanTest {
         System.out.println("Radius: " + testFan.getRadius());
         System.out.println("Color: " + testFan.getColor());
     }
-}
